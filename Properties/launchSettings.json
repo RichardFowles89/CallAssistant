@@ -2,7 +2,7 @@
   "profiles": {
     "CallAssistant": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7162",
+      "commandLineArgs": "--port 80",
       "launchBrowser": false
     }
   }
